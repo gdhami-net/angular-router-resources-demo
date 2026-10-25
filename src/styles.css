@@ -1,0 +1,4 @@
+body { font-family: system-ui, sans-serif; margin: 24px; }
+nav { display: flex; gap: 16px; margin-bottom: 16px; }
+.loading { color: #64748b; }
+.error { color: #b91c1c; }
